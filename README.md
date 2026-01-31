@@ -11,7 +11,7 @@
 
 I'm a passionate developer focused on building scalable AI solutions and interactive web applications. I love turning complex problems into elegant code.
 
-- 🔭 I’m currently working on **AI-driven Sentiment Analysis** and **System Monitoring Tools**.
+- 🔭 I’m currently working on **AI-driven Sentiment Analysis**, **System Monitoring Tools**, and **Portfolio Maintenance**.
 - 🌱 I’m currently learning **Advanced RAG Architectures** and **Next.js**.
 - 💬 Ask me about **Python, FastApi, and Machine Learning**.
 
