@@ -2,18 +2,43 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  <strong>AI Engineer | Python Developer | Full Stack</strong>
+  <strong>Data Analyst | Data Visualization | Python & SQL</strong>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate developer focused on building scalable AI solutions and interactive web applications. I love turning complex problems into elegant code.
+I transform raw data into actionable insights. I'm passionate about uncovering trends, visualizing complex information, and telling compelling stories with data.
 
-- 🔭 I’m currently working on **AI-driven Sentiment Analysis**, **System Monitoring Tools**, and **Portfolio Maintenance**.
-- 🌱 I’m currently learning **Advanced RAG Architectures** and **Next.js**.
-- 💬 Ask me about **Python, FastApi, and Machine Learning**.
+- 🔭 I’m currently working on **Data Visualization Projects** and **Statistical Analysis**.
+- 🌱 I’m currently enhancing my skills in **Advanced SQL** and **Tableau**.
+- 💬 Ask me about **Python for Data Science, SQL Optimization, and Dashboard Design**.
+
+---
+
+### 🛠️ Skills & Tools
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, SQL, R |
+| **Libraries** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| **Tools** | Tableau, PowerBI, Excel, Jupyter, Git |
+| **Databases** | PostgreSQL, MySQL, SQLite |
+
+---
+
+### 📊 Featured Projects
+
+#### [Sentiment Scope](https://github.com/syed-ubaid/sentiment_scope)
+*An AI-driven sentiment analysis tool using NLP techniques to gauge public opinion from text data.*
+- **Tech**: Python, NLTK, Scikit-learn
+- **Key Analysis**: Text preprocessing, feature extraction (TF-IDF), and sentiment classification.
+
+#### [Algo Daily](https://github.com/syed-ubaid/algo_daily)
+*A collection of daily algorithmic challenges and solutions demonstrating problem-solving logic.*
+- **Tech**: Python, Algorithms, Data Structures
+- **Focus**: Efficiency optimization and code readability.
 
 ---
 
