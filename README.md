@@ -30,15 +30,20 @@ I transform raw data into actionable insights. I'm passionate about uncovering t
 
 ### 📊 Featured Projects
 
+#### [DataInsight Dashboard](https://github.com/syed-ubaid/data-insight-dashboard)
+*A professional Streamlit-based data visualization platform for interactive business intelligence and automated insights.*
+- **Tech**: Python, Streamlit, Pandas, Plotly
+- **Key Analysis**: Dynamic filtering, real-time KPI tracking, and interactive regional distributions.
+
 #### [Sentiment Scope](https://github.com/syed-ubaid/sentiment_scope)
 *An AI-driven sentiment analysis tool using NLP techniques to gauge public opinion from text data.*
-- **Tech**: Python, NLTK, Scikit-learn
+- **Tech**: Python, FastAPI, NLTK, Docker
 - **Key Analysis**: Text preprocessing, feature extraction (TF-IDF), and sentiment classification.
 
 #### [Algo Daily](https://github.com/syed-ubaid/algo_daily)
 *A collection of daily algorithmic challenges and solutions demonstrating problem-solving logic.*
 - **Tech**: Python, Algorithms, Data Structures
-- **Focus**: Efficiency optimization and code readability.
+- **Focus**: Efficiency optimization, A* Search, and clean code principles.
 
 ---
 
