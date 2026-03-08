@@ -43,7 +43,16 @@ I transform raw data into actionable insights. I'm passionate about uncovering t
 #### [Algo Daily](https://github.com/syed-ubaid/algo_daily)
 *A collection of daily algorithmic challenges and solutions demonstrating problem-solving logic.*
 - **Tech**: Python, Algorithms, Data Structures
-- **Focus**: Efficiency optimization, A* Search, and clean code principles.
+- **Focus**: Efficiency optimization, A* Search, and Breadth-First Search (BFS).
+
+---
+
+### 📅 Recent Activity
+
+- 🛠️ **Refining Data Models** in `data-insight-dashboard` for better performance.
+- 🧠 **Implementing BFS/DFS** algorithms in `algo_daily` to sharpen problem-solving skills.
+- 🔍 **Enhancing Sentiment Analysis** in `sentiment_scope` with advanced text preprocessing.
+- 📝 **Updating Documentation** for `docu_mind` to reflect the latest project state.
 
 ---
 
