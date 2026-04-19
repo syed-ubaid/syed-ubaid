@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-I transform raw data into actionable insights. I'm passionate about uncovering trends, visualizing complex information, and building tools that help developers and analysts work smarter.
+I transform raw data into actionable insights. I'm passionate about uncovering trends, visualizing complex information, and building tools that help developers and analysts work smarter — with a growing focus on **data privacy and security**.
 
-- 🔭 Currently working on **SysMonitor** (real-time system dashboards) and **FutureChat** (AI chat interface).
-- 🌱 Levelling up in **Advanced SQL**, **RAG systems**, and **Next.js**.
-- 💬 Ask me about **Python for Data Science, SQL Optimization, and Dashboard Design**.
+- 🔭 Currently building **PrivacyGuard** (PII detection & anonymization) and **SecureVault** (AES-256 file encryption).
+- 🌱 Levelling up in **Advanced SQL**, **RAG systems**, **data security**, and **Next.js**.
+- 💬 Ask me about **Python for Data Science, SQL Optimization, Dashboard Design, and Data Privacy**.
 
 ---
 
@@ -22,7 +22,7 @@ I transform raw data into actionable insights. I'm passionate about uncovering t
 | Category | Skills |
 |----------|--------|
 | **Languages** | Python, SQL, R, TypeScript |
-| **Libraries** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK |
+| **Libraries** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK, cryptography |
 | **Frameworks** | FastAPI, Next.js, Streamlit |
 | **Tools** | Tableau, PowerBI, Docker, Jupyter, Git |
 | **Databases** | PostgreSQL, MySQL, SQLite |
@@ -30,6 +30,16 @@ I transform raw data into actionable insights. I'm passionate about uncovering t
 ---
 
 ### 📊 Featured Projects
+
+#### [PrivacyGuard](https://github.com/syed-ubaid/privacy_guard)
+*A CLI tool for detecting and anonymizing PII in datasets — GDPR & HIPAA-aware, with mask, redact, and hash strategies.*
+- **Tech**: Python, regex, pandas
+- **Key Features**: Detects 8 PII types (SSN, credit cards, email, phone…), risk scoring (HIGH/MEDIUM/LOW), CSV column scanning.
+
+#### [SecureVault](https://github.com/syed-ubaid/secure_vault)
+*AES-256 file encryption CLI with passphrase-based PBKDF2 key derivation and an encrypted named keystore.*
+- **Tech**: Python, cryptography (Fernet/AES), PBKDF2-HMAC-SHA256
+- **Key Features**: 480K PBKDF2 iterations (OWASP 2023), encrypted keystore, encrypt/decrypt/keygen CLI commands.
 
 #### [DataInsight Dashboard](https://github.com/syed-ubaid/data-insight-dashboard)
 *A professional Streamlit-based data visualization platform for interactive business intelligence and automated insights.*
@@ -70,11 +80,11 @@ I transform raw data into actionable insights. I'm passionate about uncovering t
 
 ### 📅 Recent Activity
 
+- 🛡️ **Launched PrivacyGuard** — PII detection & anonymization CLI with mask, redact, and hash strategies.
+- 🔐 **Launched SecureVault** — AES-256 file encryption with PBKDF2 key derivation and encrypted keystore.
 - 🖥️ **Added disk usage module** to `sys_monitor` for detailed per-drive space reporting.
-- 💬 **Polished FutureChat UI** with improved text selection aesthetics and a clear-chat feature.
-- 🧠 **Extended DocuMind** knowledge base with new CLI `--add` flag for on-the-fly entries.
-- 🗂️ **Added file organizer** to `dev_utils` — auto-sorts files by extension.
-- 🔍 **Enhanced Sentiment Analysis** in `sentiment_scope` with advanced text preprocessing.
+- 🔍 **Enhanced Sentiment Analysis** in `sentiment_scope` with advanced text preprocessing & batch scoring.
+- 🧩 **Expanded `algo_daily`** with iterative & recursive DFS, plus path-finding implementations.
 
 ---
 
