@@ -41,6 +41,11 @@ I transform raw data into actionable insights. I'm passionate about uncovering t
 - **Tech**: Python, cryptography (Fernet/AES), PBKDF2-HMAC-SHA256
 - **Key Features**: 480K PBKDF2 iterations (OWASP 2023), encrypted keystore, encrypt/decrypt/keygen CLI commands.
 
+#### [ForgetMeNot](https://github.com/syed-ubaid/forget_me_not)
+*A Machine Learning & Machine Unlearning toolkit — train classifiers, then surgically remove the influence of specific data points (GDPR "right to be forgotten").*
+- **Tech**: Python, Scikit-learn, NumPy, joblib
+- **Key Features**: 3 unlearning strategies (Naive Retrain, Gradient Ascent, SISA), Membership Inference Attack verification, benchmark mode.
+
 #### [DataInsight Dashboard](https://github.com/syed-ubaid/data-insight-dashboard)
 *A professional Streamlit-based data visualization platform for interactive business intelligence and automated insights.*
 - **Tech**: Python, Streamlit, Pandas, Plotly
