@@ -41,6 +41,11 @@ I transform raw data into actionable insights. I'm passionate about uncovering t
 - **Tech**: Python, cryptography (Fernet/AES), PBKDF2-HMAC-SHA256
 - **Key Features**: 480K PBKDF2 iterations (OWASP 2023), encrypted keystore, encrypt/decrypt/keygen CLI commands.
 
+#### [QueryShield](https://github.com/syed-ubaid/query_shield)
+*SQL parser, sanitizer, and vulnerability auditor CLI to detect and mask PII and secure queries against injection attacks.*
+- **Tech**: Python, sqlglot, cryptography
+- **Key Features**: AST-based PII column identifier, query parameter sanitization (mask/redact/hash), and SQL injection pattern auditor.
+
 #### [ForgetMeNot](https://github.com/syed-ubaid/forget_me_not)
 *A Machine Learning & Machine Unlearning toolkit — train classifiers, then surgically remove the influence of specific data points (GDPR "right to be forgotten").*
 - **Tech**: Python, Scikit-learn, NumPy, joblib
@@ -85,6 +90,8 @@ I transform raw data into actionable insights. I'm passionate about uncovering t
 
 ### 📅 Recent Activity
 
+- 🛡️ **Launched QueryShield** — AST-based SQL PII mask and vulnerability auditor CLI.
+- 🛡️ **Upgraded PrivacyGuard** — added recursive JSON and nested API response scanner & anonymization engine.
 - 🛡️ **Launched PrivacyGuard** — PII detection & anonymization CLI with mask, redact, and hash strategies.
 - 🔐 **Launched SecureVault** — AES-256 file encryption with PBKDF2 key derivation and encrypted keystore.
 - 🖥️ **Added disk usage module** to `sys_monitor` for detailed per-drive space reporting.
