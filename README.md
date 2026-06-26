@@ -66,6 +66,11 @@ I transform raw data into actionable insights. I'm passionate about uncovering t
 - **Tech**: Next.js 14, React 18, Tailwind CSS, TypeScript
 - **Key Features**: App Router architecture, responsive design, interactive message animations.
 
+#### [Car Game Workshop](https://github.com/syed-ubaid/kata-workshop-cc)
+*A 3D car game starter built with React Three Fiber, Vite, and Zustand for interactive AI-assisted coding workshops.*
+- **Tech**: React Three Fiber, React 19, Zustand, Vite, TypeScript
+- **Key Features**: 3D scene rendering, responsive canvas, state management with Zustand, and Docker support.
+
 #### [Sentiment Scope](https://github.com/syed-ubaid/sentiment_scope)
 *An AI-driven sentiment analysis tool using NLP techniques to gauge public opinion from text data.*
 - **Tech**: Python, FastAPI, NLTK, Docker
@@ -90,6 +95,7 @@ I transform raw data into actionable insights. I'm passionate about uncovering t
 
 ### 📅 Recent Activity
 
+- 🏎️ **Launched Car Game Workshop** — 3D interactive car game built with React Three Fiber.
 - 🛡️ **Launched QueryShield** — AST-based SQL PII mask and vulnerability auditor CLI.
 - 🛡️ **Upgraded PrivacyGuard** — added recursive JSON and nested API response scanner & anonymization engine.
 - 🛡️ **Launched PrivacyGuard** — PII detection & anonymization CLI with mask, redact, and hash strategies.
